@@ -10,5 +10,23 @@
     "recordingDate": "3rd August, 1969 DS",
     "releaseDate": "2014",
     "cover": "thereturntovegas.jpg"
+  },
+  {
+    "title": "Live 1969",
+    "recordingDate": "August 1969",
+    "releaseDate": "2019",
+    "cover": "live1969.jpg"
+  },
+  {
+    "title": "That's The Way It Is",
+    "recordingDate": "1970",
+    "releaseDate": "1970",
+    "cover": "thatsthewayitis.jfif"
+  },
+  {
+    "title": "Las Vegas '71",
+    "recordingDate": "January 1971",
+    "releaseDate": "2022",
+    "cover":  "lasvegas71.jpg"
   }
 ]
