@@ -93,6 +93,72 @@
     "title": "Aloha From Hawaii Via Satelite",
     "recordingDate": "14th January, 1973",
     "releaseDate": "2023",
-    "cover":  "alohafromhawaii.jpg"
+    "cover": "alohafromhawaii.jpg"
+  },
+  {
+    "title": "St. Paul To Wichita",
+    "recordingDate": "October 1974",
+    "releaseDate": "2019",
+    "cover": "stpaultowichita.jpg"
+  },
+  {
+    "title": "Stateline Sahara 1974",
+    "recordingDate": "May 1974",
+    "releaseDate": "2024",
+    "cover": "statelinesahara.jpg"
+  },
+  {
+    "title": "Rockin' Across Texas",
+    "recordingDate": "1974 / 1976",
+    "releaseDate": "2005",
+    "cover": "rockinacrosstexas.jpg"
+  },
+  {
+    "title": "Recorded Live On Stage In Memphis",
+    "recordingDate": "20th March, 1974",
+    "releaseDate": "1974",
+    "cover": "recordedliveonstageinmemphis.jpg"
+  },
+  {
+    "title": "Omaha, Nebraska '74",
+    "recordingDate": "30th June, 1974",
+    "releaseDate": "2018",
+    "cover": "omahanebraska74.jpg"
+  },
+  {
+    "title": "Nevada Nights",
+    "recordingDate": "August 1974",
+    "releaseDate": "2008",
+    "cover": "nevadanights.jfif"
+  },
+  {
+    "title": "Live In LA",
+    "recordingDate": "11th May, 1974 ES",
+    "releaseDate": "2011",
+    "cover": "liveinla.jpg"
+  },
+  {
+    "title": "From Sunset To Las Vegas",
+    "recordingDate": "August 1974",
+    "releaseDate": "2009",
+    "cover": "fromsunsettolasvegas.jpg"
+  },
+  {
+    "title": "Let Me Be There",
+    "recordingDate": "January 1974",
+    "releaseDate": "2023",
+    "cover": "letmebethere.jpg"
+  },
+  {
+    "title": "Lake Tahoe '74",
+    "recordingDate": "May 1974",
+    "releaseDate": "2017",
+    "cover": "laketahoe74.jpg"
+  },
+  {
+    "title": "It's Midnight!",
+    "recordingDate": "24th August, 1974 MS",
+    "releaseDate": "2002",
+    "cover": "itsmidnight.webp"
   }
 ]
