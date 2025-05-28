@@ -27,6 +27,18 @@
     "title": "Las Vegas '71",
     "recordingDate": "January 1971",
     "releaseDate": "2022",
-    "cover":  "lasvegas71.jpg"
+    "cover": "lasvegas71.jpg"
+  },
+  {
+    "title": "As Recorded At Boston Garden '71",
+    "recordingDate": "10th November, 1971",
+    "releaseDate": "2010",
+    "cover": "asrecordedatbostongarden.jpg"
+  },
+  {
+    "title": "3000 South Paradise Road",
+    "recordingDate": "August 1972",
+    "releaseDate": "2012",
+    "cover":  "3000southparadiseroad.jpg"
   }
 ]
