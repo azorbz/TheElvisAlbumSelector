@@ -39,6 +39,60 @@
     "title": "3000 South Paradise Road",
     "recordingDate": "August 1972",
     "releaseDate": "2012",
-    "cover":  "3000southparadiseroad.jpg"
+    "cover": "3000southparadiseroad.jpg"
+  },
+  {
+    "title": "What Now My Love?",
+    "recordingDate": "August 1972",
+    "releaseDate": "2019",
+    "cover": "whatnowmylove.jpg"
+  },
+  {
+    "title": "Summer Festival",
+    "recordingDate": "11th August, 1972 DS",
+    "releaseDate": "2005",
+    "cover": "summerfestival.png"
+  },
+  {
+    "title": "Elvis On Tour",
+    "recordingDate": "1972",
+    "releaseDate": "2022",
+    "cover": "elvisontour.jpg"
+  },
+  {
+    "title": "Prince From Another Planet",
+    "recordingDate": "10th June, 1972",
+    "releaseDate": "2012",
+    "cover": "princefromanotherplanet.jpg"
+  },
+  {
+    "title": "Promised Land",
+    "recordingDate": "December 1973",
+    "releaseDate": "1975",
+    "cover": "promisedland.jpg"
+  },
+  {
+    "title": "Takin' Tahoe Tonight!",
+    "recordingDate": "13th May, 1973, 3AM",
+    "releaseDate": "2004",
+    "cover": "takintahoetonight.jpg"
+  },
+  {
+    "title": "From Vegas To Tahoe",
+    "recordingDate": "1973",
+    "releaseDate": "2022",
+    "cover": "fromvegastotahoe.jpg"
+  },
+  {
+    "title": "Closing Night",
+    "recordingDate": "3rd September, 1973 MS",
+    "releaseDate": "2004",
+    "cover": "closingnight.jfif"
+  },
+  {
+    "title": "Aloha From Hawaii Via Satelite",
+    "recordingDate": "14th January, 1973",
+    "releaseDate": "2023",
+    "cover":  "alohafromhawaii.jpg"
   }
 ]
