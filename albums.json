@@ -160,5 +160,137 @@
     "recordingDate": "24th August, 1974 MS",
     "releaseDate": "2002",
     "cover": "itsmidnight.webp"
+  },
+  {
+    "title": "Houston / Fort Worth / Baton Rouge 1974",
+    "recordingDate": "1974",
+    "releaseDate": "2023",
+    "cover": "houstonfortworthbatonrouge.jpg"
+  },
+  {
+    "title": "Hometown Shows",
+    "recordingDate": "17th March, 1974 ES / 10th June, 1975 ES",
+    "releaseDate": "2016",
+    "cover": "hometownshows.jpg"
+  },
+  {
+    "title": "High Sierra",
+    "recordingDate": "21 May, 1974 MS",
+    "releaseDate": "2010",
+    "cover": "highsierra.jpg"
+  },
+  {
+    "title": "Fort Worth, Texas 1974",
+    "recordingDate": "16th June, 1974",
+    "releaseDate": "2021",
+    "cover": "fortworthtexas1974.jpg"
+  },
+  {
+    "title": "Elvis In California",
+    "recordingDate": "May 1974",
+    "releaseDate": "2020",
+    "cover": "elvisincalifornia.jpg"
+  },
+  {
+    "title": "Dragonheart",
+    "recordingDate": "1st October, 1974",
+    "releaseDate": "2003",
+    "cover": "dragonheart.webp"
+  },
+  {
+    "title": "August Season In Vegas",
+    "recordingDate": "August 1974",
+    "releaseDate": "2023",
+    "cover": "augustseasoninvegas.jpg"
+  },
+  {
+    "title": "Today",
+    "recordingDate": "1975",
+    "releaseDate": "1975",
+    "cover": "today.jpg"
+  },
+  {
+    "title": "Spirit Of Jackson, MS",
+    "recordingDate": "1975 / 1976",
+    "releaseDate": "2016",
+    "cover": "spiritofjackson.jpg"
+  },
+  {
+    "title": "South Bound - Tampa / Atlanta",
+    "recordingDate": "1975",
+    "releaseDate": "2021",
+    "cover": "southbound.jpg"
+  },
+  {
+    "title": "Las Vegas 1975",
+    "recordingDate": "1975",
+    "releaseDate": "2016",
+    "cover": "lasvegas1975.jpg"
+  },
+  {
+    "title": "June '75",
+    "recordingDate": "June 1975",
+    "releaseDate": "2025",
+    "cover": "june75.jpg"
+  },
+  {
+    "title": "Holiday Season In Vegas",
+    "recordingDate": "December 1975",
+    "releaseDate": "2018",
+    "cover": "holidayseasoninvegas.jfif"
+  },
+  {
+    "title": "From Georgia To Florida",
+    "recordingDate": "April 1975",
+    "releaseDate": "2019",
+    "cover": "fromgeorgiatoflorida.jpg"
+  },
+  {
+    "title": "Dixieland Rocks",
+    "recordingDate": "6th May, 1975",
+    "releaseDate": "2001",
+    "cover": "dixielandrocks.jpg"
+  },
+  {
+    "title": "Dixieland Delight",
+    "recordingDate": "1975",
+    "releaseDate": "2009",
+    "cover": "dixielanddelight.jpg"
+  },
+  {
+    "title": "Dinner At Eight",
+    "recordingDate": "13th December, 1975 DS",
+    "releaseDate": "2002",
+    "cover": "dinnerateight.webp"
+  },
+  {
+    "title": "Big Boss Man",
+    "recordingDate": "30th March, 1975 DS",
+    "releaseDate": "2005",
+    "cover": "bigbossman.webp"
+  },
+  {
+    "title": "Another Saturday Night",
+    "recordingDate": "7th June, 1975 ES",
+    "releaseDate": "2012",
+    "cover": "anothersaturdaynight.webp"
+  },
+  {
+    "title": "MEMPHIS",
+    "recordingDate": "Various",
+    "releaseDate": "2024",
+    "cover": "memphis.jpg"
+  },
+  {
+    "title": "From Elvis In Nashville",
+    "recordingDate": "Various",
+    "releaseDate": "2020",
+    "cover": "fromelvisinnashville.jpg"
+  },
+  {
+    "title": "Elvis Back In Nashville",
+    "recordingDate": "Various",
+    "releaseDate": "2021",
+    "cover": "backinnashville.jpg"
   }
 ]
