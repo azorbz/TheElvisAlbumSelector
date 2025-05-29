@@ -292,5 +292,101 @@
     "recordingDate": "Various",
     "releaseDate": "2021",
     "cover": "backinnashville.jpg"
+  },
+  {
+    "title": "Elvis In Concert",
+    "recordingDate": "19th / 21st June, 1977",
+    "releaseDate": "1977",
+    "cover": "elvisinconcert.jpg"
+  },
+  {
+    "title": "The Last Tours: Volume 1",
+    "recordingDate": "February 1977",
+    "releaseDate": "2024",
+    "cover": "thelasttoursvolume1.jpg"
+  },
+  {
+    "title": "The Last Tours: Volume 2",
+    "recordingDate": "March 1977",
+    "releaseDate": "2024",
+    "cover": "thelasttoursvolume2.jpg"
+  },
+  {
+    "title": "Spring Tours '77",
+    "recordingDate": "Spring 1977",
+    "releaseDate": "2002",
+    "cover": "springstours77.webp"
+  },
+  {
+    "title": "Tucson '76",
+    "recordingDate": "1st June, 1976",
+    "releaseDate": "2000",
+    "cover": "tucson76.webp"
+  },
+  {
+    "title": "The Bicentennial Show",
+    "recordingDate": "1976",
+    "releaseDate": "2017",
+    "cover": "thebicentennialshow.jpg"
+  },
+  {
+    "title": "Summer Of '76",
+    "recordingDate": "Summer 1976",
+    "releaseDate": "2023",
+    "cover": "summerof76.webp"
+  },
+  {
+    "title": "St. Louis / Spokane",
+    "recordingDate": "1976",
+    "releaseDate": "2020",
+    "cover": "stlouisspokane.jpg"
+  },
+  {
+    "title": "Pine Bluff To Madison '76",
+    "recordingDate": "1076",
+    "releaseDate": "2022",
+    "cover": "pineblufftomadison76.jpg"
+  },
+  {
+    "title": "New Year's Eve",
+    "recordingDate": "31st December, 1976",
+    "releaseDate": "2003",
+    "cover": "newyearseve.jpg"
+  },
+  {
+    "title": "New Haven '76",
+    "recordingDate": "30th July, 1976",
+    "releaseDate": "2009",
+    "cover": "newhaven76.jpg"
+  },
+  {
+    "title": "From Loisiana And Memphis",
+    "recordingDate": "July 1976",
+    "releaseDate": "2022",
+    "cover": "fromlouisianaandmemphis.jpg"
+  },
+  {
+    "title": "Elvis In Alabama",
+    "recordingDate": "6th September, 1976",
+    "releaseDate": "2015",
+    "cover": "elvisinalabama.jpg"
+  },
+  {
+    "title": "America",
+    "recordingDate": "22nd April, 1976",
+    "releaseDate": "2008",
+    "cover": "america.webp"
+  },
+  {
+    "title": "A Minnesota Moment",
+    "recordingDate": "17th October, 1976",
+    "releaseDate": "2010",
+    "cover": "aminnesotamoment.jpg"
+  },
+  {
+    "title": "Moody Blue",
+    "recordingDate": "1976",
+    "releaseDate": "1977",
+    "cover": "moodyblue.jpg"
   }
 ]
